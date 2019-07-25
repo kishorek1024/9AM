@@ -1,0 +1,8 @@
+<suite name="Project1">
+  <test name="Module1">
+    <classes>
+      <class name="testng9.Class1"/>
+      <class name="testng9.Class2"/>      
+    </classes>
+  </test> 
+</suite> 

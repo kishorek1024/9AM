@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34442" started-at="2019-07-22T04:38:41Z" finished-at="2019-07-22T04:39:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34442" started-at="2019-07-22T04:38:41Z" finished-at="2019-07-22T04:39:15Z">
+      <class name="testng9.DataDriven">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testng9.DataDriven@3c756e4d]" name="beforeMethod" is-config="true" duration-ms="10474" started-at="2019-07-22T10:08:41Z" finished-at="2019-07-22T10:08:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng9.DataDriven@3c756e4d]" name="f" duration-ms="211" started-at="2019-07-22T10:08:51Z" data-provider="TestData" finished-at="2019-07-22T10:08:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kishore]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcdefgh]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[24]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testng9.DataDriven@3c756e4d]" name="afterMethod" is-config="true" duration-ms="616" started-at="2019-07-22T10:08:52Z" finished-at="2019-07-22T10:08:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testng9.DataDriven@3c756e4d]" name="beforeMethod" is-config="true" duration-ms="10039" started-at="2019-07-22T10:08:52Z" finished-at="2019-07-22T10:09:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng9.DataDriven@3c756e4d]" name="f" duration-ms="209" started-at="2019-07-22T10:09:02Z" data-provider="TestData" finished-at="2019-07-22T10:09:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Qshore]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kishore]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testng9.DataDriven@3c756e4d]" name="afterMethod" is-config="true" duration-ms="524" started-at="2019-07-22T10:09:02Z" finished-at="2019-07-22T10:09:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testng9.DataDriven@3c756e4d]" name="beforeMethod" is-config="true" duration-ms="11617" started-at="2019-07-22T10:09:03Z" finished-at="2019-07-22T10:09:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testng9.DataDriven@3c756e4d]" name="f" duration-ms="220" started-at="2019-07-22T10:09:15Z" data-provider="TestData" finished-at="2019-07-22T10:09:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[KishoreKumar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Qshore]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testng9.DataDriven@3c756e4d]" name="afterMethod" is-config="true" duration-ms="513" started-at="2019-07-22T10:09:15Z" finished-at="2019-07-22T10:09:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testng9.DataDriven -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
